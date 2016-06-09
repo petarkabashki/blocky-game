@@ -1,5 +1,4 @@
-Blocky game
-
+# Blocky game
 Similar to Tetris but you have to click a block to have matching neighbour blocks removed.
 
 Implemented with vanilla javascript/ES6, browserify and gulp
